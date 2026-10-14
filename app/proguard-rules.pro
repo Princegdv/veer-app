@@ -1,0 +1,7 @@
+-keep class com.veer.assistant.** { *; }
+-keep class org.vosk.** { *; }
+-keep class com.sun.jna.** { *; }
+-keepclassmembers class * implements android.accessibilityservice.AccessibilityService { *; }
+-keepclassmembers class * extends android.service.notification.NotificationListenerService { *; }
+-dontwarn org.vosk.**
+-dontwarn com.sun.jna.**

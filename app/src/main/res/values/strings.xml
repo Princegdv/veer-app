@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Veer</string>
+    <string name="accessibility_label">Veer Screen Control</string>
+    <string name="access_desc">Veer aapki awaaz par screen chalata hai: swipe, tap, back, home, like.</string>
+</resources>
